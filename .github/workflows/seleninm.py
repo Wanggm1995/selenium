@@ -1,3 +1,3 @@
 import webbrowser
 webbrowser.get()
-print(123)
+print(1232)
